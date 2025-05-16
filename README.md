@@ -1,4 +1,4 @@
 # learning
-This is the learning gir repository!!
+This is the learning git repository!!
 
 added a line here!
